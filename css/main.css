@@ -28,8 +28,13 @@
 }
 
 .user_menu {
-    margin-left: 1360px;
+    margin-left: 1370px;
     margin-top: -17px;
+}
+
+.header_menu img {
+    position: absolute;
+    margin-left: 49rem;
 }
 
 .header_menu a {
@@ -356,7 +361,7 @@
 
  .add-to-cart-btn:hover:not(:disabled) {
      background:  #3579bb;
-     transform: translateY(-2px);
+
  }
 
  .add-to-cart-btn:disabled {
